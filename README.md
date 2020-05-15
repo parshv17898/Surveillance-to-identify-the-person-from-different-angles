@@ -13,6 +13,6 @@ Object Detection 2.ipynb file:
 1.)Stores Prediction values of data1 & data2 folders into predicted1 & predicted2 arrays.
 2.)Frames are Synchronized and different scenarios:
 	a.)Synchronized and Predicted Video1 and Video2
-	b.)Predicted Parshv only
-	c.)Predicted Meet only
+	b.)Predicted Megh only
+	c.)Predicted Amish only
 	d.)Predicted Both only
