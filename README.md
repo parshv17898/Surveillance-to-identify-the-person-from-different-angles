@@ -19,6 +19,6 @@ Object Detection 2.ipynb file:
 2.)Frames are Synchronized and different scenarios:
 
 	a.)Synchronized and Predicted Video1 and Video2
-	b.)Predicted Megh only
-	c.)Predicted Amish only
+	b.)Predicted Parshv only
+	c.)Predicted Meet only
 	d.)Predicted Both only
